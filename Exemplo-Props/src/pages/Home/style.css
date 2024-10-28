@@ -1,0 +1,23 @@
+/* style.css */
+body,
+html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.inputs-row {
+  width: 25vw;
+  margin: 5vh auto;
+}
+
+.input-box {
+  display: flex;
+}
